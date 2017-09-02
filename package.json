@@ -1,10 +1,9 @@
 {
     "name": "wwt-simple-upload-npm",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "A (really easy to use) uploader for WorldWideTorrents written in Javascript.",
     "main": "index.js",
-    "scripts": {
-    },
+    "scripts": {},
     "repository": {
         "type": "git",
         "url": "git+https://github.com/PXgamer/wwt-simple-upload-npm.git"
