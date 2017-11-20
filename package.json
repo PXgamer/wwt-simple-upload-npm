@@ -6,21 +6,21 @@
     "scripts": {},
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/PXgamer/wwt-simple-upload-npm.git"
+        "url": "git+https://github.com/pxgamer/wwt-simple-upload-npm.git"
     },
     "keywords": [
         "wwt",
         "upload",
         "torrents"
     ],
-    "author": "PXgamer <owzie123@gmail.com>",
+    "author": "pxgamer <owzie123@gmail.com>",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/PXgamer/wwt-simple-upload-npm/issues"
+        "url": "https://github.com/pxgamer/wwt-simple-upload-npm/issues"
     },
-    "homepage": "https://github.com/PXgamer/wwt-simple-upload-npm#readme",
+    "homepage": "https://github.com/pxgamer/wwt-simple-upload-npm#readme",
     "dependencies": {
-        "form-data": "^2.1.2",
-        "request": "^2.79.0"
+        "form-data": "^2.1",
+        "request": "^2.79"
     }
 }
