@@ -1,6 +1,6 @@
 {
     "name": "wwt-simple-upload-npm",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "description": "A (really easy to use) uploader for WorldWideTorrents written in Javascript.",
     "main": "index.js",
     "scripts": {},
