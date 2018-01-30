@@ -6,7 +6,7 @@ A (really easy to use) uploader for WorldWideTorrents written for NodeJS.
 
 ```js
 import upload from 'wwt-simple-upload-npm'
-let API_KEY = ''
+const API_KEY = ''
 
 upload(
     API_KEY,
