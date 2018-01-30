@@ -20,7 +20,6 @@
     },
     "homepage": "https://github.com/pxgamer/wwt-simple-upload-npm#readme",
     "dependencies": {
-        "form-data": "^2.1",
-        "request": "^2.79"
+        "request": "^2.83"
     }
 }
