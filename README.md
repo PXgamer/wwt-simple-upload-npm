@@ -1,5 +1,7 @@
 # wwt-simple-upload-npm
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/pxgamer/wwt-simple-upload-npm.svg)](https://greenkeeper.io/)
+
 A (really easy to use) uploader for WorldWideTorrents written for NodeJS.
 
 ## Usage
