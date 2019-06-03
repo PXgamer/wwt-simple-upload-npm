@@ -14,7 +14,7 @@ export default (apiKey, dataArray) => {
     }
   }
 
-  const BASE_URL = 'https://worldwidetorrents.me/api'
+  const BASE_URL = 'https://worldwidetorrents.to/api'
 
   const torrentFile = fs.createReadStream(dataArray.torrent_file)
 
